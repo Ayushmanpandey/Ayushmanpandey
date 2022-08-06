@@ -5,8 +5,7 @@
 - 💞️ I’m looking to collaborate on Open source project in Front-End , data science and development projects.
 - 📫 How to reach me? 
     - CONTACT:
-    -  Mail id : ayushman.pandey2000@gmail.com 
-                 payushman8@gmail.com
+    -  Mail id :payushman8@gmail.com
                  
     -  Insta: @ayushmanduttpandey
     - LinkedIn: https://www.linkedin.com/in/ayushman-pandey-741b391a4/
