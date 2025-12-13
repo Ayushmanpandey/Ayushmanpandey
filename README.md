@@ -1,15 +1,30 @@
-- 👋 Hi, I’m @Ayushmanpandey
-- 👀 I’m interested in development , designing as well as coding and Problem Solving
-- 🌱 I’m currently learning React /React - Native ( App Development )
-- ✨ I'm a also a data science enthusiast and have some project on it.
-- 💞️ I’m looking to collaborate on Open source project in Front-End , data science and development projects.
-- 📫 How to reach me? 
-    - CONTACT:
-    -  Mail id: payushman8@gmail.com
-                 
-    -  Insta: @ayushmanduttpandey
-    - LinkedIn: https://www.linkedin.com/in/ayushman-pandey-741b391a4/
-<!---
-Ayushmanpandey/Ayushmanpandey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m @Ayushmanpandey  
+
+👨‍💻 Frontend Developer with 3+ years of professional experience in building scalable, responsive, and high-performance web applications. I enjoy transforming complex requirements into intuitive and engaging user experiences.
+
+🚀 What I do
+- Design and develop modern UIs using React.js, JavaScript (ES6+), HTML5, CSS3
+- Build reusable components, optimize performance, and ensure cross-browser compatibility
+- Collaborate closely with designers, backend developers, and product teams
+- Write clean, maintainable, and testable code following best practices
+
+🌱 Currently exploring
+- Advanced React patterns, performance optimization, and state management
+- React Native for cross-platform mobile app development
+- Improving UI/UX with modern design systems
+
+📊 Additional interests
+- Data science & analytics enthusiast with hands-on project experience
+- Strong problem-solving mindset with a data-driven approach
+
+💞️ Open to collaborating on
+- Open-source Frontend / React projects
+- UI-focused product development
+- Data-driven applications and dashboards
+
+📫 How to reach me
+- 📧 Email: payushman8@gmail.com  
+- 📸 Instagram: @ayushmanduttpandey  
+- 💼 LinkedIn: https://www.linkedin.com/in/ayushmanduttpandey/
+
+✨ Always excited to build impactful products and learn something new every day.
